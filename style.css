@@ -33,9 +33,9 @@ header {
   padding: 2em;
   text-align: center;
   /* background-image: url('./img/bg.jpg'); */
-  background-size: cover;
-  background-position: fixed;
-  color: rgb(20, 110, 110);
+  /* background-size: cover;
+  background-position: fixed;*/
+  color: rgb(15, 17, 17);
 }
 
 header section {
@@ -70,7 +70,7 @@ main section:not(:last-child) {
 }
 
 .fab {
-  border: 1px solid #509e98;
+  border: 1px solid white;
   border-radius: 50%;
   font-size: 1.5em;
   width: 1.5em;
@@ -81,7 +81,7 @@ main section:not(:last-child) {
 }
 
 a .fab {
-  color: #509e98;
+  color: white;
 }
 
 .course, .skills {
