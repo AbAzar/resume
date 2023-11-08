@@ -109,9 +109,9 @@ a .fab {
 }
 
 .skills .column {
-  -ms-flex: 0 0 100%;
+  /* -ms-flex: 0 0 100%;
   flex: 0 0 100%;
-  max-width: 100%;
+  max-width: 100%; */
   list-style-type: none;
 }
 
